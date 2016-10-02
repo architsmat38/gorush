@@ -2,7 +2,7 @@ package leveldb
 
 import (
 	"fmt"
-	"github.com/appleboy/gorush/config"
+	"github.com/architsmat38/gorush/config"
 	"github.com/syndtr/goleveldb/leveldb"
 	"strconv"
 )

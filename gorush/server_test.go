@@ -1,7 +1,7 @@
 package gorush
 
 import (
-	"github.com/appleboy/gorush/config"
+	"github.com/architsmat38/gorush/config"
 	"github.com/buger/jsonparser"
 	"github.com/gin-gonic/gin"
 	"github.com/stretchr/testify/assert"

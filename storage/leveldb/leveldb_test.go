@@ -1,7 +1,7 @@
 package leveldb
 
 import (
-	c "github.com/appleboy/gorush/config"
+	c "github.com/architsmat38/gorush/config"
 	"github.com/stretchr/testify/assert"
 	"os"
 	"testing"

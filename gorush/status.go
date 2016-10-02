@@ -1,11 +1,11 @@
 package gorush
 
 import (
-	"github.com/appleboy/gorush/storage/boltdb"
-	"github.com/appleboy/gorush/storage/buntdb"
-	"github.com/appleboy/gorush/storage/leveldb"
-	"github.com/appleboy/gorush/storage/memory"
-	"github.com/appleboy/gorush/storage/redis"
+	"github.com/architsmat38/gorush/storage/boltdb"
+	"github.com/architsmat38/gorush/storage/buntdb"
+	"github.com/architsmat38/gorush/storage/leveldb"
+	"github.com/architsmat38/gorush/storage/memory"
+	"github.com/architsmat38/gorush/storage/redis"
 	"github.com/gin-gonic/gin"
 	"github.com/thoas/stats"
 	"net/http"

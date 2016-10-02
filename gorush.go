@@ -3,8 +3,8 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/appleboy/gorush/config"
-	"github.com/appleboy/gorush/gorush"
+	"github.com/architsmat38/gorush/config"
+	"github.com/architsmat38/gorush/gorush"
 	"log"
 	"os"
 	"strconv"

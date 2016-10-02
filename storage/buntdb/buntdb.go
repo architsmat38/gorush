@@ -2,7 +2,7 @@ package buntdb
 
 import (
 	"fmt"
-	"github.com/appleboy/gorush/config"
+	"github.com/architsmat38/gorush/config"
 	"github.com/tidwall/buntdb"
 	"strconv"
 )

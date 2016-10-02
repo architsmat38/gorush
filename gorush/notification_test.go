@@ -2,7 +2,7 @@ package gorush
 
 import (
 	"encoding/json"
-	"github.com/appleboy/gorush/config"
+	"github.com/architsmat38/gorush/config"
 	"github.com/buger/jsonparser"
 	"github.com/google/go-gcm"
 	"github.com/sideshow/apns2"
