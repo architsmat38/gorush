@@ -52,6 +52,7 @@ type RequestPush struct {
 type PushNotification struct {
 	// Common
 	Tokens           []string `json:"tokens" binding:"required"`
+	AppCategory      string   `json:"app_category" binding:"required"`
 	Platform         int      `json:"platform" binding:"required"`
 	Message          string   `json:"message" binding:"required"`
 	Title            string   `json:"title,omitempty"`
